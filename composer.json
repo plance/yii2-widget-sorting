@@ -16,7 +16,7 @@
     },
     "autoload": {
         "psr-4": {
-            "plance\\widget\\sort\\": ""
+            "plance\\widget\\sorting\\": ""
         }
     }
 }

@@ -9,13 +9,13 @@ The preferred way to install this extension is through [composer](http://getcomp
 Either run
 
 ```
-php composer.phar require --prefer-dist plance/yii2-widget-sort "*"
+php composer.phar require --prefer-dist plance/yii2-widget-sorting "*"
 ```
 
 or add
 
 ```
-"plance/yii2-widget-sort": "*"
+"plance/yii2-widget-sorting": "*"
 ```
 
 to the require section of your `composer.json` file.
