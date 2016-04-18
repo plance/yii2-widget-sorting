@@ -1,5 +1,5 @@
 {
-    "name": "plance/yii2-widget-sort",
+    "name": "plance/yii2-widget-sorting",
     "description": "Yii2 widget sorting data",
     "type": "yii2-extension",
     "keywords": ["yii2","widget"],
