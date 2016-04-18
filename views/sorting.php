@@ -3,8 +3,6 @@ use yii\helpers\Html;
 use yii\jui\Sortable;
 use yii\bootstrap\ActiveForm;
 
-use app\modules\y2cms\helper\Lng;
-
 $this -> registerCss("
 	.jquery-sortable li {
 		list-style: none;
