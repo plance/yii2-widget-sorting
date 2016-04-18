@@ -1,5 +1,5 @@
 <?php
-namespace plance\widget\sort;
+namespace plance\widget\sorting;
 
 use yii\helpers\Html;
 
