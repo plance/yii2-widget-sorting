@@ -1,9 +1,9 @@
 <?php
-namespace plance\widget\sorting;
+namespace plance\widget;
 
 use yii\helpers\Html;
 
-class SortingWidget extends \yii\base\Widget
+class Sorting extends \yii\base\Widget
 {
 	public $items;
 	public $empty;
